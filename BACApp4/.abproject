@@ -1,0 +1,45 @@
+{
+  "ProjectName": "BACApp4",
+  "ProjectGuid": "0c4c517a-6ff6-478a-bca6-528ce112ac8b",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.BACApp4",
+  "DisplayName": "BACApp4",
+  "Author": "",
+  "Description": "BACApp4",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{04658462-3eeb-451b-8b2f-338d7f0fc5e1}",
+  "WP8ProductID": "{f78495f9-deec-4142-833b-8cc6f61a7481}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.BACApp4",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
